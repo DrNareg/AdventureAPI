@@ -1,11 +1,16 @@
 #!/bin/bash
+#946965ed-6b38-4b3d-b810-dc051cdf9da5
+#Ending: Architect of Silence
+
+#25e84973-a245-4822-bcbe-35eae8dc8250
+#Ending: Semaphore Symphony
 
 # Adventure Client Script - Interactive Adventure Flow
 # Requirements: curl, jq
 # Name: team_assignment.sh
 
 API_URL="https://adventure-api-673835650363.us-west1.run.app"
-ADVENTURE_NAME="brookmere-may6-0704pm"
+ADVENTURE_NAME="forbin6"
 
 # Initialize session
 echo "📘 Initializing your adventure: $ADVENTURE_NAME..."
